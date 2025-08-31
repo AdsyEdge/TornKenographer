@@ -1,0 +1,2 @@
+CUSTOM API CREATE LINK:
+https://www.torn.com/preferences.php#tab=api?step=addNewKey&title=Keno%20API%20Logs&user=basic,log
